@@ -8,6 +8,7 @@
 <<<<<<< HEAD
 >>>>>>> parent of fb61d42... w
 simple colour overhaul for atom
+<<<<<<< HEAD
 ![A screenshot of your theme](https://chi-sanity.com/res/img/dunno.png)
 =======
 =======
@@ -48,3 +49,6 @@ A short description of your theme.
 >>>>>>> parent of 82117c7... f
 =======
 >>>>>>> parent of 82117c7... f
+=======
+![A screenshot of your theme]https://chi-sanity.com/res/img/dunno.png)
+>>>>>>> parent of 01a6bac... f
