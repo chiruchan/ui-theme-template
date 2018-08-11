@@ -1,11 +1,8 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
 # Atom UI Theme
 simple colour overhaul for atom
 ![A screenshot of your theme](https://chi-sanity.com/res/img/dunno.png)
 =======
-=======
->>>>>>> parent of 82117c7... f
 # Atom UI Theme Template
 
 This is a __starter template__ for creating an Atom UI theme.
@@ -33,7 +30,4 @@ ps. Don't forget to delete the above and edit the below in your own `README.md`.
 A short description of your theme.
 
 ![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
-<<<<<<< HEAD
->>>>>>> parent of 82117c7... f
-=======
 >>>>>>> parent of 82117c7... f
