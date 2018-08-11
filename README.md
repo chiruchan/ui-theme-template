@@ -1,11 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 # Atom UI Theme
-=======
-# Atom UI Theme Template
-<<<<<<< HEAD
->>>>>>> parent of fb61d42... w
 simple colour overhaul for atom
 ![A screenshot of your theme](https://chi-sanity.com/res/img/dunno.png)
 =======
