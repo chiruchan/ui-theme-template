@@ -12,10 +12,10 @@
 
 
 // Text Colors
-@text-color:           #00225e;
-@text-color-subtle:    #001a49;
-@text-color-highlight: white;
-@text-color-selected:  blue;
+@text-color:           hsl(0,0%,66%);
+@text-color-subtle:    hsl(0,0%,50%);
+@text-color-highlight: hsl(0,0%,94%);
+@text-color-selected:  hsl(0,0%,100%);
 
 @text-color-info:    hsl(219,  79%, 66%);
 @text-color-success: hsl(140,  44%, 62%);
@@ -28,19 +28,19 @@
 @background-color-warning: hsl(32,   60%, 50%);
 @background-color-error:   hsl(0,    70%, 50%);
 
-@background-color-highlight: white;//lighten(@base-background-color, 5%);
-@background-color-selected:  white;
-@app-background-color:       darken(@base-background-color, 9%);
+@background-color-highlight: lighten(@base-background-color, 5%);
+@background-color-selected:  lighten(@base-background-color, 10%);
+@app-background-color:       darken(@base-background-color, 5%);
 
 // Base colors
-@base-background-color: #6F8BF9;
-@base-border-color:     white;//darken(@base-background-color, 19%);
+@base-background-color: hsl(222,6%,22%);
+@base-border-color:     darken(@base-background-color, 8%);
 
 // Component colors
 @pane-item-background-color: @base-background-color;
 @pane-item-border-color:     @base-border-color;
 
-@input-background-color: white;
+@input-background-color: @app-background-color;
 @input-border-color:     @base-border-color;
 
 @tool-panel-background-color: @base-background-color;
@@ -63,7 +63,7 @@
 @tab-bar-background-color:    @base-background-color;
 @tab-bar-border-color:        @base-border-color;
 @tab-background-color:        @tab-bar-background-color;
-@tab-background-color-active: darken(@base-background-color, 29%);
+@tab-background-color-active: lighten(@tab-bar-background-color, 10%);
 @tab-border-color:            @base-border-color;
 
 @tree-view-background-color: @base-background-color;
