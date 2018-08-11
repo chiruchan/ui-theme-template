@@ -1,16 +1,13 @@
 {
-  "name": "cirnos-freezing-ui",
+  "name": "ui-theme-template",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "9",
+  "description": "A short description of your UI theme",
   "keywords": [
     "ui",
-    "theme",
-    "cirno",
-    "light",
-    "blue"    
+    "theme"
   ],
-  "repository": "https://github.com/chiruchan/ui-theme-template",
+  "repository": "https://github.com/atom-community/ui-theme-template",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
