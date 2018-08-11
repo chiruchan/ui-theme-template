@@ -1,8 +1,12 @@
 {
-  "name": "cirnos-freezing-ui",
+  "name": "ui-theme-template",
   "theme": "ui",
   "version": "0.0.0",
+<<<<<<< HEAD
   "description": "999",
+=======
+  "description": "A short description of your UI theme",
+>>>>>>> parent of 82117c7... f
   "keywords": [
     "ui",
     "theme"
